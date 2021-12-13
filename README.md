@@ -31,7 +31,7 @@ This project is made with Bedrock a WordPress boilerplate with modern developmen
 
 ## Installation (summary)
 
-- Glone this repo to your production server or local machine
+- Clone this repo to your production server or local machine
 - Rename the .env.example to .inv and edit its content to match the server you are using
 - Run Composer install and composer update
 - Visit your project's url and follow the Wordpress Install process
